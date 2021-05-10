@@ -1,0 +1,16 @@
+'use strict';
+
+const COLOR = {
+    PRIMARY_LiGHT: '#662eff',
+    PRIMARY_DARK: '#020833',
+    WHITE: '#fff',
+    BLACK: '#000',
+    DARKGRAY: '#a9a9a9',
+    LIGHTGRAY: '#3a3f55',
+    MAINSCREEN_BACKGROUND_COLOR: '#020833',
+    MAINSCREEN_TEXT_LIGHT: '#9393AB',
+    MAINSCREEN_TEXT_HEAVY: '#FFFFFF',
+    MAINSCREEN_GREEN: '#98DA95',
+};
+
+export default COLOR;
